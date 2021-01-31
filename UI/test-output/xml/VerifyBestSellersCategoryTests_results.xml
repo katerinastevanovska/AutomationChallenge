@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="VerifyBestSellersCategoryTests"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="10.840">
+    <properties></properties>
+
+
+
+            <testcase
+                name="verifyPopularCategory"
+                time="10.840"
+                classname="VerifyBestSellersCategoryTests">
+            </testcase>
+</testsuite>

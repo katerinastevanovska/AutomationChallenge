@@ -1,11 +1,7 @@
-responses/UnsuccessfulRegisterResponse.class
-core/ReadProperties.class
+responses/Data.class
 requests/GetUsers.class
-helpers/Data.class
 responses/GetUsersResponse.class
-requests/RegisterRequest.class
-helpers/Support.class
-responses/SuccessfullRegisterResponse.class
+helpers/JsonHelper.class
+responses/Support.class
 core/SetupTest.class
-requests/DeleteRequest.class
-requests/DelayedRequest.class
+core/ReadProperties.class
