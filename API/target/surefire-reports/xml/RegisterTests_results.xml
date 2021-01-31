@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RegisterTests"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.214">
+    <properties></properties>
+
+
+
+            <testcase
+                name="unsuccessfulRegisterWithPasswordOnly"
+                time="0.244"
+                classname="RegisterTests">
+            </testcase>
+            <testcase
+                name="unsuccessfulRegisterWithFullBody"
+                time="0.291"
+                classname="RegisterTests">
+            </testcase>
+            <testcase
+                name="unsuccessfulRegister"
+                time="0.385"
+                classname="RegisterTests">
+            </testcase>
+            <testcase
+                name="successfulRegister"
+                time="0.294"
+                classname="RegisterTests">
+            </testcase>
+</testsuite>

@@ -1,0 +1,16 @@
+pages/PrintedDressesPage.class
+pages/LogInPage.class
+pages/PrintedDressesPage$1.class
+pages/HomePage.class
+core/Constants.class
+pages/LogInPage$1.class
+pages/CreateAnAccPage.class
+helpers/PageObjectHelper.class
+pages/AccountPage.class
+core/ReadProperties.class
+pages/AccountPage$1.class
+pages/CreateAnAccPage$1.class
+pages/HomePage$1.class
+core/SetupTest.class
+pages/SignInPage$1.class
+pages/SignInPage.class

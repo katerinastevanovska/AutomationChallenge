@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GetUsersTests"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.127">
+    <properties></properties>
+
+
+
+            <testcase
+                name="verifyResponseWithPage200"
+                time="0.110"
+                classname="GetUsersTests">
+            </testcase>
+            <testcase
+                name="verifyResponseWithPerPage"
+                time="0.247"
+                classname="GetUsersTests">
+            </testcase>
+            <testcase
+                name="verifyResponse"
+                time="1.542"
+                classname="GetUsersTests">
+            </testcase>
+            <testcase
+                name="verifyResponseWithMoreThanMaxPage"
+                time="0.228"
+                classname="GetUsersTests">
+            </testcase>
+</testsuite>

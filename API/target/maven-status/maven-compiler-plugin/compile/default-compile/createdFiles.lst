@@ -1,0 +1,11 @@
+responses/UnsuccessfulRegisterResponse.class
+core/ReadProperties.class
+requests/GetUsers.class
+helpers/Data.class
+responses/GetUsersResponse.class
+requests/RegisterRequest.class
+helpers/Support.class
+responses/SuccessfullRegisterResponse.class
+core/SetupTest.class
+requests/DeleteRequest.class
+requests/DelayedRequest.class
